@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
+﻿title: List
+description:
 author: tmflo
 github: https://github.com/tmflo
-about: 
-disqus_shortname: 리스트
+about:
+disqus_shortname: 
 google_analytics: UA-XXXXXXXX-Y
 # avatar_url: /static/img/avatar.jpg
 
@@ -18,18 +18,18 @@ collections:
 social:
     - icon: fa-facebook
       link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/"
-    - icon: fa-stack-exchange
-      link: "#"
-    - icon: fa-github
-      link: "https://github.com/tmflo"
+    #- icon: fa-twitter
+    # link: "https://twitter.com/"
+    #- icon: fa-linkedin
+    #link: "https://www.linkedin.com/"
+    #- icon: fa-stack-exchange
+    #link: "#"
+    #- icon: fa-github
+    #link: "https://github.com/tmflo"
 
 share:
-  twitter_username: agusmakmun6
-  fb_appid: 1749788565247320
+  #twitter_username: agusmakmun6
+  fb_appid:
 
 urls:
     - text: About Me

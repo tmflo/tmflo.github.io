@@ -5,7 +5,7 @@ github: https://github.com/tmflo
 about: 
 disqus_shortname: 리스트
 google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+# avatar_url: /static/img/avatar.jpg
 
 enableTags: true
 tagarray: []
@@ -36,8 +36,8 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    # - text: XML Feed
+    #  url: /feed.xml
 
 url: "https:/tmflo.github.io"
 baseurl: ""
